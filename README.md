@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README file for your YOLO project using Darknet:
-
 # YOLO Object Detection
 
 This repository contains code for performing object detection using YOLO (You Only Look Once) algorithm. The project utilizes the Darknet framework and pre-trained weights on the COCO dataset.
