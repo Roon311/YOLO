@@ -1,6 +1,13 @@
 # YOLO Object Detection
 
-This repository contains code for performing object detection using YOLO (You Only Look Once) algorithm. The project utilizes the Darknet framework and pre-trained weights on the COCO dataset.
+This GitHub repository contains code and models for performing object detection using different versions of the YOLO (You Only Look Once) algorithm, including YOLOv3, YOLOv5, and YOLOv8. The project utilizes the Ultralytics YOLOv3 implementation, as well as the Darknet framework for YOLOv3.
+
+## Features
+
+- YOLOv3: This implementation uses the Ultralytics YOLOv3 model, which is trained on the COCO dataset and provides accurate object detection across multiple classes.
+- YOLOv5: The repository also includes variants of YOLOv5, which is a newer version of the YOLO algorithm. YOLOv5 offers improved performance and flexibility, with options for different model sizes and configurations.
+- YOLOv8: Additionally, the project includes YOLOv8, an experimental version of the YOLO algorithm that incorporates advanced techniques and architectural enhancements.
+
 
 ## Requirements
 
