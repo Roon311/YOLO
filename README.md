@@ -78,6 +78,10 @@ After running the object detection using Darknet, the following results were obt
 - Detection Time (GPU): 11.29 seconds
 - Total Number of Objects Detected: 3069 objects
 
+
+https://github.com/Roon311/YOLO/assets/75309751/a235010b-7f7e-4d08-8c04-d2a5a254ca0b
+
+
 ## Contact
 
 For any questions or inquiries, please contact s-noureldin.hamedo@zewailcity.edu.eg.
